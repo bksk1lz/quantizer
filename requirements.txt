@@ -1,0 +1,8 @@
+numpy
+scipy.misc
+matplotlib
+bokeh
+os
+ipywidgets
+IPython.display
+colorsys
